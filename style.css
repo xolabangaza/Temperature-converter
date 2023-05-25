@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6.25rem;
+    
+    
+}
+
+body{
+    background-color: #542858
+}
+
+.converter{
+    background-color: #db15ec;
+    border-radius: 6px;
+    width: 250px;
+    height: 200px;
+    
+}
+
+.converter input{
+    height: 15px;
+    width: 100px;
+    margin: 8px;
+    border-radius: 6px;
+
+}
+
+label{
+    font-size: 20px;
+    padding: 10px;
+}
+label:hover{
+    color:crimson;
+}
+
+h3{
+    text-align: center;
+}
